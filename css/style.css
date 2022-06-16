@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.design{
+    background-color: blue;
+    color: #fff;
+    font-size: 100px;
+    text-align: center;
+    padding: 10px;
+}
+
+.parallax{
+    background-image: url(../img/_123179066_qiang-guo-wildlife-photographer-of-the-year.jpg);
+    min-height: 550px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.designhead{
+    background-color: aqua;
+    color: orange;
+    font-size: 100px;
+    text-align: center;
+    padding: 10px;
+}
+
+.parallax1{
+    background-image: url(../img/49552129891_b1d4bfab57_c.jpg);
+    min-height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+}
+
+.designheading{
+    background-color: pink;
+    color: red;
+    font-size: 100px;
+    text-align: center;
+    padding: 10px;
+}
+
+.parallax2{
+    background-image: url(../img/asia_australasia_png_birds_paradise_photography_nick_garbutt_gallery_raggiana_bird_paradise.jpg);
+    min-height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.designheadinglast{
+    background-color: violet;
+    color: aquamarine;
+    font-size: 100px;
+    text-align: center;
+    padding: 10px;
+}
+
+.parallax3{
+    background-image: url(../img/GROO_PromoVideo-3-690x460.jpg);
+    min-height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+}
+
+.designheadinglastone{
+    background-color: darkmagenta;
+    color: lightpink;
+    font-size: 100px;
+    text-align: center;
+    padding: 10px;
+}
+
+.parallax4{
+    background-image: url(../img/stock-photo-65355737.jpg);
+    min-height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
